@@ -5,7 +5,7 @@
 - 🌱 Estudando BIG DATA na Instituição Ibmec
 - 💬 Posso responder sobre Energia Eletrica
 - 📫 leandro.bsbdf10@gmail.com / https://www.linkedin.com/in/leandro-braga-alves-781610a2
-- ⚡ Fun fact: Sou bom em acertar HS no COD.
+
 
 <div align="center">
   <a href="https://github.com/Leandro-Braga">
