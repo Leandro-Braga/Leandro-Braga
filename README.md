@@ -9,8 +9,10 @@
 
 <div align="center">
   <a href="https://github.com/Leandro-Braga">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Braga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Braga&layout=compact&langs_count=7&theme=dark"/>
+  <img width="47%" height="160em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Braga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="47%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Braga&layout=compact&langs_count=4&theme=dark"/>
+</a>
+    
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Lyon-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
