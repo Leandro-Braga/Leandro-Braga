@@ -1,9 +1,8 @@
 ### Hi, Eu sou a Leandro Braga 👋
 
 
-- 🔭 Atualmente trabalho com Contabilidade na empresa Norte Energia SA
-- 🌱 Estudando BIG DATA na Instituição Ibmec
-- 💬 Posso responder sobre Energia Eletrica
+- 🔭 Atualmente trabalho com Contabilidade na empresa Norte Energia SA.
+- 🌱 Cursando MBA em BIG DATA na Instituição Ibmec
 - 📫 leandro.bsbdf10@gmail.com / https://www.linkedin.com/in/leandro-braga-alves-781610a2
 
 
@@ -11,15 +10,21 @@
   <a href="https://github.com/Leandro-Braga">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Braga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Braga&layout=compact&langs_count=4&theme=dark"/>
-</a>
-    
 </div>
+
+  ##
+  
+</div>
+Linguagens de programação e tecnologias mais usadas:
  <div style="display: inline_block"><br>
   <img align="center" alt="Lyon-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Lyon-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-   <img align="center" alt="Lyon-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lyon-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Lyon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lyon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lyon-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Lyon-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="Lyon-Trello" height="45" width="48" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 </div>
     
   ##
