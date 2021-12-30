@@ -1,4 +1,4 @@
-### Hi, Eu sou a Leandro Braga 👋
+### Hi, Eu sou Leandro Braga 👋
 
 
 - 🔭 Atualmente trabalho com Contabilidade na empresa Norte Energia SA.
