@@ -29,8 +29,8 @@ Linguagens de programação e tecnologias mais usadas:
  
 <div> 
   
-  # ![Snake animation](https://github.com/Leandro-Braga/Leandro-Braga/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/Leandro-Braga/Leandro-Braga/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
- 
+
 </div>
