@@ -1,8 +1,8 @@
 ### Oi, Eu sou Leandro Braga 👋
 
 
-- 🔭 Atualmente trabalho com Contabilidade e Data Science na empresa Norte Energia SA
-- 🌱 Cursando MBA em BIG DATA na Instituição Ibmec
+- 🔭 Atualmente trabalho com Contabilidade e Data Science na empresa Norte Energia SA.
+- 🌱 MBA em BIG DATA na Instituição Ibmec.
 - 📫 leandro.bsbdf10@gmail.com / https://www.linkedin.com/in/leandro-braga-alves-781610a2
 
 
