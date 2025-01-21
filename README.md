@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente trabalho com Contabilidade e Data Science na empresa Norte Energia SA.
 - 🌱 MBA em BIG DATA na Instituição Ibmec.
+- 🌱 Especialização em Data Analytics, Data Visualization e Machine Learning - FIAP
 - 📫 leandro.bsbdf10@gmail.com / https://www.linkedin.com/in/leandro-braga-alves
 
 
