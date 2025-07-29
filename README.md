@@ -38,6 +38,7 @@ ETL | Data Modeling | Data Warehouse | Automação de Processos | Visualização
 ## 📫 Contato
 
 📧 leandro.bsbdf10@gmail.com  
+🔗 [Linkedin](https://www.linkedin.com/in/leandro-braga-alves)
 🔗 [GitHub](https://github.com/Leandro-Braga)
 
 ---
