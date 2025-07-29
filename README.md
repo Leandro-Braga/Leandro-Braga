@@ -18,7 +18,7 @@ Contador por formação e analista de dados por vocação. Tenho uma trajetória
 ## 🧠 Stack Técnica
 
 **Linguagens & Ferramentas:**  
-Python | SQL Server | Power BI | Streamlit | SAP (FBL5N, ZFI050FC, ZFI174, ZFI214) | APIs (BACEN, FOCUS) | Excel Avançado  
+Python | SQL Server | Power BI | Streamlit | APIs | Excel Avançado  
 
 **Competências:**  
 ETL | Data Modeling | Data Warehouse | Automação de Processos | Visualização de Dados | Análise Financeira | Scrum | AWS | Databricks  
