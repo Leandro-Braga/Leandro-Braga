@@ -27,11 +27,11 @@ ETL | Data Modeling | Data Warehouse | Automação de Processos | Visualização
 
 ## 🎓 Formação
 
-📘 Ciências Contábeis (2012)  
-📘 MBA em Big Data & Machine Learning (2022)  
-📘 Pós em Data Analytics & Data Visualization (2024)  
-📘 Especialização em Data Warehouse & SQL (2021)  
-📘 Inglês Avançado – **C2 Proficiency** (CEFR, 2021)
+📘 Ciências Contábeis  
+📘 MBA em Big Data & Machine Learning 
+📘 Pós em Data Analytics & Data Visualization
+📘 Especialização em Data Warehouse & SQL 
+📘 Inglês Avançado – **C2 Proficiency**
 
 ---
 
@@ -82,9 +82,3 @@ ETL | Data Modeling | Data Warehouse | Automação de Processos | Visualização
 </picture>
 
 ###
-
- 
-<div> 
-  
-
-</div>
